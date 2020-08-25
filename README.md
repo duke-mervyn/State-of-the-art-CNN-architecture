@@ -1,0 +1,2 @@
+# State-of-the-art-CNN-architecture
+A state-of-the-art CNN model to reduce the complexity of the existing models (VGG, AlexNet, InceptionNet, ResNet) with a smaller number of layers and parameters using Keras and Numpy.  Performed various hyperparameter tweaking and increased the accuracy of the model by 12 % and reduced the prediction loss to the minimum. Trained and tested the model’s performance on ImageNet and MNIST datasets with an accuracy of 71.7 % and 98.9 % respectively.  
